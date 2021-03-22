@@ -7,7 +7,7 @@
 👨‍💻 I work for a HR company.\
 🎓 I majored in anatomy.\
 🌱 I like drinking very much.\
-✍️  In my free time, I study Flutter on dart.
+✍️  In my free time, I study dart on Flutter.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
