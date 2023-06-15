@@ -13,6 +13,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+![Go](https://img.shields.io/badge/Go-0090BD?style=for-the-badge&logo=go&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
